@@ -10,13 +10,19 @@ The series combines modern poster aesthetics with expressive typography, resulti
 
 ##  Featured Posters
 
-###  Problem — To The Next Level
+###  Problem — To The Next Level 
+![Problem To The Next Level](SERIES%201.png)
+
 A dynamic typographic poster that transforms the word *Problem* into a visual journey, emphasizing growth, challenge, and progression through bold forms and strong contrast.
 
-###  My Mind Don't Mind
+###  My Mind Don't Mind 
+![My Mind Don't Mind](Poster2.png)
+
 An abstract typography-driven composition that explores rhythm, movement, and perspective through oversized letterforms and geometric arrangements.
 
-###  Too Bold To Fade
+###  Too Bold To Fade 
+![Too Bold To Fade](Poster3.png)
+
 A poster blending typography and imagery to create a powerful statement about confidence, identity, and presence. The layered halftone effect adds depth and visual energy.
 
 ## 🎯 Design Focus

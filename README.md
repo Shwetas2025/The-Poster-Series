@@ -8,15 +8,15 @@ A collection of bold and experimental poster designs exploring typography, compo
 
 The series combines modern poster aesthetics with expressive typography, resulting in designs that are both impactful and memorable.
 
-## 🖼️ Featured Posters
+##  Featured Posters
 
-### 🚀 Problem — To The Next Level
+###  Problem — To The Next Level
 A dynamic typographic poster that transforms the word *Problem* into a visual journey, emphasizing growth, challenge, and progression through bold forms and strong contrast.
 
-### 🔴 My Mind Don't Mind
+###  My Mind Don't Mind
 An abstract typography-driven composition that explores rhythm, movement, and perspective through oversized letterforms and geometric arrangements.
 
-### 🌫️ Too Bold To Fade
+###  Too Bold To Fade
 A poster blending typography and imagery to create a powerful statement about confidence, identity, and presence. The layered halftone effect adds depth and visual energy.
 
 ## 🎯 Design Focus
